@@ -6,7 +6,7 @@
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/newyork-anthonyng/primus-webpack-plugin.git"
+    "url": "git+ssh://git@github.com/DomHoney/primus-webpack-plugin.git"
   },
   "keywords": [
     "webpack-plugin",
@@ -14,12 +14,12 @@
     "primus",
     "sockets"
   ],
-  "author": "newyork.anthonyng@gmail.com",
+  "author": "DomHoney",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/newyork-anthonyng/primus-webpack-plugin/issues"
+    "url": "https://github.com/DomHoney/primus-webpack-plugin/issues"
   },
-  "homepage": "https://github.com/newyork-anthonyng/primus-webpack-plugin#readme",
+  "homepage": "https://github.com/DomHoney/primus-webpack-plugin#readme",
   "dependencies": {
     "uglify-js": "^2.8.7"
   },
